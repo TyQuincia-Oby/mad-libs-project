@@ -15,5 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyQuincia-Oby/mad-libs-project.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TyQuincia-Oby/mad-libs-project/issues"
+  },
+  "homepage": "https://github.com/TyQuincia-Oby/mad-libs-project#readme"
 }
